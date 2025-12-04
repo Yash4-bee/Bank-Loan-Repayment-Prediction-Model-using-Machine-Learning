@@ -10,9 +10,9 @@ This model is going to help any banking or financial institutions in following w
 
 Dataset :
 
-We have 2 dataset, Dataset 1 .................., Dataset 2............
+We have 2 datasets, Dataset 1 .................., Dataset 2............
 
 Workflow
 
-1. Data Collection and cleaning
-2. 
+1. Data Collection and cleaning, Handling missing values, duplicates and outliers
+2. Evoluation matrix
